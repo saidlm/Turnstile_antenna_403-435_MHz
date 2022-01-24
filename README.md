@@ -1,5 +1,5 @@
 # Turnstile antenna
-The antenna was primary designed for weather balloon tracker station based. It means my first dessign is for 403Mhz (400Mhz - 406Mhz). The solution is based on well know priciples which can be easily found on the Internet. The next one is planned for satelite receiver on 433 Mhz band.
+The antenna was primary designed for weather balloon tracker station based. It means my first dessign is for 403Mhz (400Mhz - 406Mhz). The solution is based on well know priciples which can be easily found on the Internet. The next one is planned for satellite receiver on 433 Mhz band.
 
 ![Turnstile Antenna](images/20220124_175708.jpg)
 

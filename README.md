@@ -11,6 +11,6 @@ Measurements of ALU parts are summarized below. Dipole pipes are fixed with four
 
 |Part|Description|
 | :--- | :--- |
-| **Dipole** | : 4 pcs of ALU pipe 6mm x 164mm |
-| **Reflector** | : 2 pcs of ALU pipe 6mm x 354mm |
+| **Dipole** |  4 pcs of ALU pipe 6mm x 164mm |
+| **Reflector** |  2 pcs of ALU pipe 6mm x 354mm |
 | **Pole** | 1 pc of ALU pipe 20mm x 262mm|
